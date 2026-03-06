@@ -1,0 +1,16 @@
+{
+  "name": "crm-contacts-module",
+  "version": "1.0.0",
+  "description": "Simple CRM Contacts Management System",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
